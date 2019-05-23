@@ -1,2 +1,0 @@
-Scriptname MFGAIncrementExpScript extends Quest
-
